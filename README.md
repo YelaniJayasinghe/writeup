@@ -62,4 +62,5 @@ Reflection
 
 The XSS vulnerability training program provided student participants with practical experience of both attacking and protecting against XSS vulnerabilities across the training zones. Users who lack proper filtering for their inputs execute dangerous scripts during the process of exploiting Reflected, Stored and DOM-based XSS vulnerabilities. During the challenge I used practical skills to retrieve the flag through a Reflected XSS vector. Security best practices developed during the course demonstrated that application defensive strategies are required for protecting web platforms against threats. User protection systems gained extra importance following my understanding of how cookies require security protocols with HttpOnly and SameSite attributes. The room attached theoretical concepts to practical needs in a highly specific way to prepare me for discovering and protecting XSS vulnerabilities in actual projects.
 
+LINK: https://tryhackme.com/jr/xssexploitationmitigationbyyelaniiiiii
 
